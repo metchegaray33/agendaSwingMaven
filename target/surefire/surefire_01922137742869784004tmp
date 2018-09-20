@@ -1,0 +1,13 @@
+#surefire_0
+#Tue Sep 18 21:21:44 ART 2018
+jpda.listen=true
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=64864
+jpda.address=64864
+file.encoding=UTF-8
+java.net.useSystemProxies=true
+forkMode=once
+test=com.maricel.agenda.AgendaJUnitTest
+basedir=C\:\\Users\\Usuario\\Documents\\NetBeansProjects\\AgendaProjectMaven
+user.dir=C\:\\Users\\Usuario\\Documents\\NetBeansProjects\\AgendaProjectMaven
+localRepository=C\:\\Users\\Usuario\\.m2\\repository
