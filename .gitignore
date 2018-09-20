@@ -1,0 +1,6 @@
+#ignorar directorios
+target/
+#ignorar archivos README.MD
+README.MD
+#ignorar tipos de archivos
+*.class
