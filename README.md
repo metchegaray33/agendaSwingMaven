@@ -1,4 +1,3 @@
 # agendaSwingMaven
-java swing con maven
 Proyecto swing con java y maven
 CRUD de personas en una agenda
