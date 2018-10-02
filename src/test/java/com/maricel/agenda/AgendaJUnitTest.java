@@ -8,7 +8,6 @@ package com.maricel.agenda;
 import com.controller.ABMController;
 import org.junit.After;
 import org.junit.AfterClass;
-import org.junit.Assert;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.fail;
 import org.junit.Before;
